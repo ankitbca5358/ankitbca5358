@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Ankit Sharma.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning.
+- 🌱 I’m currently learning Advanced Python.
+- 💞️ I’m looking to Artificial Reaserch collaboration to build something new in AI.
+- that can solve modeling problems using AI/ML Approaches.
+- 📫 How to reach me ...email me on ankitstudentgo@gmail.com
+- I spend my spare time to learn Computational Statistics, Applied Mathematics, Graphical Modules, 
+- Reinforcement learning, Computer perception, Natural language processing and speech.
+- also in developing and debugging in C, C++, Python, or C.
+- I really interested in producing new science to understand intelligence and technology to make computers more intelligent,
+- or to work on more applied problems across the companies in this world.
+- Thank you it's all about my skills and knowledge here.
